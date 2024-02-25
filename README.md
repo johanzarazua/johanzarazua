@@ -13,7 +13,7 @@ I'm a  backend developer specialized in java passionate about creating clean and
 
 
 
-# 💻 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack 
+# 💻 Tech Stack 
 <!---
 <p align="center">
 	<img title="Java" alt="Java" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
