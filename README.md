@@ -2,6 +2,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1500&color=CEA0F3&background=000000&center=true&vCenter=true&random=false&width=435&lines=I'm+johanzarazua;I'm+a+software+engineer;backend+developer;Java+developer" alt="Typing SVG" /></a>
 </p>
 
+<div align="center">
+
 Hello. <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 I'm a  backend developer specialized in java passionate about creating clean and secure code. I like to understand the logic behind processes to be able to design and create applications or digital services that help facilitate tasks.
@@ -36,3 +38,5 @@ I'm a  backend developer specialized in java passionate about creating clean and
 johanzarazua/johanzarazua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+</div>
