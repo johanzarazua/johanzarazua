@@ -10,10 +10,10 @@ I'm a  backend developer specialized in java passionate about creating clean and
 <!---
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb)[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) 
 --->
-[![Gmail](https://img.shields.io/badge/gmail-12100E?logo=gmail&logoColor=white)](mailto:johanzarazua@gmail.com)
-[![Instragam](https://img.shields.io/badge/instagram-%23FF4500.svg?logo=instagram&logoColor=white)](https://www.instagram.com/zar.soft/)
-[![Facebook](https://img.shields.io/badge/facebook-%239146FF.svg?logo=facebook&logoColor=white)](https://www.facebook.com/people/ZarSoft/100070710405578/?mibextid=LQQJ4d)
-
+[![Gmail](https://img.shields.io/badge/Gmail-12100E?logo=gmail&logoColor=white)](mailto:johanzarazua@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%234b45f7.svg?logo=facebook&logoColor=white)](https://www.facebook.com/people/ZarSoft/100070710405578/?mibextid=LQQJ4d)
+[![Instragam](https://img.shields.io/badge/Instagram-%23FF4500.svg?logo=instagram&logoColor=white)](https://www.instagram.com/zar.soft/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%234b45f7.svg?logo=linkedin&logoColor=white)]([https://www.facebook.com/people/ZarSoft/100070710405578/?mibextid=LQQJ4d](https://www.linkedin.com/in/johanzarazua?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ))
 
 # 💻 Tech Stack 
 <!---
