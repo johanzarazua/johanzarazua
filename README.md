@@ -13,7 +13,7 @@ I'm a  backend developer specialized in java passionate about creating clean and
 [![Gmail](https://img.shields.io/badge/Gmail-12100E?logo=gmail&logoColor=white)](mailto:johanzarazua@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%234b45f7.svg?logo=facebook&logoColor=white)](https://www.facebook.com/people/ZarSoft/100070710405578/?mibextid=LQQJ4d)
 [![Instragam](https://img.shields.io/badge/Instagram-%23FF4500.svg?logo=instagram&logoColor=white)](https://www.instagram.com/zar.soft/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%234b45f7.svg?logo=linkedin&logoColor=white)]([https://www.facebook.com/people/ZarSoft/100070710405578/?mibextid=LQQJ4d](https://www.linkedin.com/in/johanzarazua?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%234b45f7.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanzarazua?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 # 💻 Tech Stack 
 <!---
